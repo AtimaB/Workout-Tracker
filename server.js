@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 
 const PORT = process.env.PORT || 3000;
 
-const db = require("./models/workout");
+const User = require("./models/workout");
 
 const app = express();
 
@@ -15,7 +15,7 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/custommethoddb", 
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", 
 { useNewUrlParser: true });
 
 
@@ -26,3 +26,5 @@ app.use(require("./routes/html-routes"));
 app.listen(PORT, () => {
     console.log(`App running on port ${PORT}!`);
   });
+
+  // dont use M LAD to deploy the app.
