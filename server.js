@@ -27,4 +27,3 @@ app.listen(PORT, () => {
     console.log(`App running on port ${PORT}!`);
   });
 
-  // dont use M LAD to deploy the app.
