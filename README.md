@@ -37,4 +37,3 @@ The user should be able to:
 ![tracker](./Assets/tracker.png)
 ![database](./Assets/db.png)
 
-## Resources

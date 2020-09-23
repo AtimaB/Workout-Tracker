@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const Schema = mongoose.Schema;
 
-
+//create workout collection
 const workoutSchema = new Schema(
     {
         day: {
@@ -40,7 +40,7 @@ const workoutSchema = new Schema(
             },
                 
         ],
-
+//add total duration
         totalDuration: {
             type: Number,
             default: 0,
