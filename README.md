@@ -28,11 +28,11 @@ The user should be able to:
 
 ## Link
 
-#### [Click here for deployed link!]()
+<!-- #### [Click here for deployed link!]() -->
 
 ## Tests
-![](./Assets/burger.png)
+<!-- ![](./Assets/burger.png)
 ![](./Assets/console.png)
-![](./Assets/mysql.png)
+![](./Assets/mysql.png) -->
 
 ## Resources
