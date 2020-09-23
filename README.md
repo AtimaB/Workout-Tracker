@@ -28,11 +28,13 @@ The user should be able to:
 
 ## Link
 
-<!-- #### [Click here for deployed link!]() -->
+#### [Click here for deployed link!](https://the-fit-club.herokuapp.com/)
 
 ## Tests
-<!-- ![](./Assets/burger.png)
-![](./Assets/console.png)
-![](./Assets/mysql.png) -->
+![add](./Assets/add.png)
+![cardio](./Assets/cardio.png)
+![resistance](./Assets/resistance.png)
+![tracker](./Assets/tracker.png)
+![database](./Assets/db.png)
 
 ## Resources
